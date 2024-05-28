@@ -43,8 +43,8 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Mock-Up
 
-![gif-1](./solid-broccoli/images/21-mern-homework-demo-01.gif)
+![gif-1](./images/21-mern-homework-demo-01.gif)
 
-![gif-2](./solid-broccoli/images/21-mern-homework-demo-02.gif)
+![gif-2](./images/21-mern-homework-demo-02.gif)
 
-![gif-3](./solid-broccoli/images/21-mern-homework-demo-03.gif)
+![gif-3](./images/21-mern-homework-demo-03.gif)
